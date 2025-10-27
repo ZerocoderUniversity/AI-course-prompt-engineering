@@ -22,7 +22,7 @@ BlogGPT — это Python-проект для автоматического с�
 
 1. Клонируйте репозиторий:
    ```
-   git clone https://github.com/yourusername/bloggpt.git
+   gh repo clone ZerocoderUniversity/AI-course-prompt-engineering
    cd bloggpt
    ```
 2. Установите зависимости:
